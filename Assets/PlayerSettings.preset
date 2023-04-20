@@ -570,26 +570,8 @@ Preset:
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: preloadedAssets.Array.size
-    value: 4
+    value: 0
     objectReference: {fileID: 0}
-  - target: {fileID: 0}
-    propertyPath: preloadedAssets.Array.data[0]
-    value: 
-    objectReference: {fileID: -433099628835249419, guid: 58f40b12bbc864f3c96c6505a9a1e1e3,
-      type: 2}
-  - target: {fileID: 0}
-    propertyPath: preloadedAssets.Array.data[1]
-    value: 
-    objectReference: {fileID: 11400000, guid: 1eb95d77acb39444e8cf44313496a874, type: 2}
-  - target: {fileID: 0}
-    propertyPath: preloadedAssets.Array.data[2]
-    value: 
-    objectReference: {fileID: 8992103559519889196, guid: 6bb381a8ba31f114d9724357633b4625,
-      type: 2}
-  - target: {fileID: 0}
-    propertyPath: preloadedAssets.Array.data[3]
-    value: 
-    objectReference: {fileID: 4800000, guid: c9f956787b1d945e7b36e0516201fc76, type: 3}
   - target: {fileID: 0}
     propertyPath: metroInputSource
     value: 0
@@ -672,7 +654,7 @@ Preset:
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: applicationIdentifier.Array.data[0].second
-    value: com.RyC.UnityARAdventure
+    value: com.RyC.ARAdventureTesting
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: applicationIdentifier.Array.data[1].first
@@ -720,7 +702,7 @@ Preset:
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: AndroidMinSdkVersion
-    value: 24
+    value: 26
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: AndroidTargetSdkVersion
