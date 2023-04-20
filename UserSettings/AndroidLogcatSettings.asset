@@ -3,7 +3,7 @@
     "m_SelectedPackage": {
         "deviceId": "3136354257383498",
         "name": "com.RyC.ARAdventureTesting",
-        "processId": 24626,
+        "processId": 20763,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -24,6 +24,12 @@
             "deviceId": "3136354257383498",
             "name": "com.RyC.ARAdventureTesting",
             "processId": 24626,
+            "exited": false
+        },
+        {
+            "deviceId": "3136354257383498",
+            "name": "com.RyC.ARAdventureTesting",
+            "processId": 20763,
             "exited": false
         }
     ],
