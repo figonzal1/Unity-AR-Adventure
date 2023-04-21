@@ -521,7 +521,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -2146329.2, y: 1286749.2}
+  m_AnchoredPosition: {x: -3019879, y: 1791688.5}
   m_SizeDelta: {x: 0, y: 440}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &303156174
@@ -1635,6 +1635,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1421364571}
   - component: {fileID: 1421364570}
+  - component: {fileID: 1421364572}
   m_Layer: 0
   m_Name: DataManager
   m_TagString: Untagged
@@ -1649,7 +1650,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1421364569}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 20b51f74ef066b14688990f9b851ec90, type: 3}
   m_Name: 
@@ -1675,6 +1676,24 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1421364572
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1421364569}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54ba32428490de441bdfff3728ab635b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  jsonURL: https://www.progresscap.cl/assets/NewItemsCollection.json
+  itemButtonManager: {fileID: 2036276575473817244, guid: 098cb642fb7fd2444ab7a1316bf82674,
+    type: 3}
+  buttonsContainer: {fileID: 303156172}
+  newItems:
+    items: []
 --- !u!1 &1458613500
 GameObject:
   m_ObjectHideFlags: 0

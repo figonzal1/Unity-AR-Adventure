@@ -3,7 +3,7 @@
     "m_SelectedPackage": {
         "deviceId": "3136354257383498",
         "name": "com.RyC.ARAdventureTesting",
-        "processId": 20763,
+        "processId": 6646,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -30,6 +30,54 @@
             "deviceId": "3136354257383498",
             "name": "com.RyC.ARAdventureTesting",
             "processId": 20763,
+            "exited": false
+        },
+        {
+            "deviceId": "3136354257383498",
+            "name": "com.RyC.ARAdventureTesting",
+            "processId": 23748,
+            "exited": false
+        },
+        {
+            "deviceId": "3136354257383498",
+            "name": "com.RyC.ARAdventureTesting",
+            "processId": 14252,
+            "exited": false
+        },
+        {
+            "deviceId": "3136354257383498",
+            "name": "com.RyC.ARAdventureTesting",
+            "processId": 32440,
+            "exited": false
+        },
+        {
+            "deviceId": "3136354257383498",
+            "name": "com.RyC.ARAdventureTesting",
+            "processId": 15913,
+            "exited": false
+        },
+        {
+            "deviceId": "3136354257383498",
+            "name": "com.RyC.ARAdventureTesting",
+            "processId": 24349,
+            "exited": false
+        },
+        {
+            "deviceId": "3136354257383498",
+            "name": "com.RyC.ARAdventureTesting",
+            "processId": 24260,
+            "exited": false
+        },
+        {
+            "deviceId": "3136354257383498",
+            "name": "com.RyC.ARAdventureTesting",
+            "processId": 31405,
+            "exited": false
+        },
+        {
+            "deviceId": "3136354257383498",
+            "name": "com.RyC.ARAdventureTesting",
+            "processId": 6646,
             "exited": false
         }
     ],

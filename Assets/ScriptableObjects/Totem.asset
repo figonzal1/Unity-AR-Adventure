@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd58b8416a6e662418715cc63bbcdf4d, type: 3}
+  m_Name: Totem
+  m_EditorClassIdentifier: 
+  ItemName: Totem
+  ItemImage: {fileID: 21300000, guid: d502c5f202c00c448b0919a59bfd328f, type: 3}
+  ItemDescription: Totem Description
+  Item3DModel: {fileID: 1889719690244679822, guid: 7bde557cede05fd4aa8a7dfbbd904cdb,
+    type: 3}
